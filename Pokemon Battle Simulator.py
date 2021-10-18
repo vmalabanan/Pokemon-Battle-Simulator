@@ -2,8 +2,8 @@ import pathlib
 import json
 
 
-my_dex_path = pathlib.Path(r'C:\Users\vanes\Dropbox\Python Projects\GitHub\project-vmalabanan\myParty.json')
-rival_dex_path = pathlib.Path(r'C:\Users\vanes\Dropbox\Python Projects\GitHub\project-vmalabanan\rivalParty.json')
+my_dex_path = pathlib.Path(r'myParty.json')
+rival_dex_path = pathlib.Path(r'rivalParty.json')
 
 
 
